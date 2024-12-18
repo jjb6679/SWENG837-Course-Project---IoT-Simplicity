@@ -40,7 +40,7 @@ Device using App’s Attributes
 
 Device using App’s Methods:
 
-displayIoTDevices(listOfIoTDevices): Shows available IoT Devices
+·      displayIoTDevices(listOfIoTDevices): Shows available IoT Devices
 
 **Name: Wi-Fi Router**
 
